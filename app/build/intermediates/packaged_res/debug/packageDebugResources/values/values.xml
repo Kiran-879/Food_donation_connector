@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent_amber">#F57C00</color>
+    <color name="accent_amber_light">#FFF3E0</color>
+    <color name="background">#F8F9FA</color>
+    <color name="black">#000000</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#E5E7EB</color>
+    <color name="error">#D32F2F</color>
+    <color name="error_light">#FFEBEE</color>
+    <color name="primary">#2E7D32</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="primary_light">#E8F5E9</color>
+    <color name="primary_variant">#388E3C</color>
+    <color name="secondary">#00897B</color>
+    <color name="secondary_dark">#004D40</color>
+    <color name="secondary_light">#E0F2F1</color>
+    <color name="status_available_bg">#C8E6C9</color>
+    <color name="status_available_text">#1B5E20</color>
+    <color name="status_claimed_bg">#BBDEFB</color>
+    <color name="status_claimed_text">#0D47A1</color>
+    <color name="status_completed_bg">#CFD8DC</color>
+    <color name="status_completed_text">#37474F</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_muted">#9CA3AF</color>
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="white">#FFFFFF</color>
+    <string name="action_logout">Sign Out</string>
+    <string name="additional_notes">Special Instructions (Optional)</string>
+    <string name="additional_notes_hint">e.g., Bring insulated bags, vegetarian, allergens</string>
+    <string name="already_have_account">Already have an account? Sign In</string>
+    <string name="app_name">Food Donation Connector</string>
+    <string name="available_donations_title">Available Donations</string>
+    <string name="btn_login">Sign In</string>
+    <string name="btn_mark_completed">Mark as Handed Over / Received</string>
+    <string name="btn_request_accept">Request / Accept Donation</string>
+    <string name="btn_signup">Create Account</string>
+    <string name="btn_submit_donation">Publish Donation</string>
+    <string name="call_donor">Call Contact</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="donation_detail_title">Donation Details</string>
+    <string name="donor_details">Donor Information</string>
+    <string name="dont_have_account">Don\'t have an account? Sign Up</string>
+    <string name="email">Email Address</string>
+    <string name="empty_donations">No available donations found at the moment.</string>
+    <string name="empty_my_donations">You haven\'t made or claimed any donations yet.</string>
+    <string name="err_empty_field">This field cannot be empty</string>
+    <string name="err_invalid_email">Please enter a valid email address</string>
+    <string name="err_passwords_mismatch">Passwords do not match</string>
+    <string name="err_select_expiry">Please select an expiry date and time</string>
+    <string name="err_select_role">Please select your account role</string>
+    <string name="err_short_password">Password must be at least 6 characters</string>
+    <string name="expiry_time">Consume / Pick up Before</string>
+    <string name="expiry_time_hint">Select date and time</string>
+    <string name="food_type">Food Type / Title</string>
+    <string name="food_type_hint">e.g., Cooked Rice &amp; Curry, Fresh Bread, Apples</string>
+    <string name="full_name">Full Name or Organization Name</string>
+    <string name="gcm_defaultSenderId" translatable="false">475037816292</string>
+    <string name="google_api_key" translatable="false">AIzaSyDmhHyjjMoE-lf736MprqWTD7ms_ODvumM</string>
+    <string name="google_app_id" translatable="false">1:475037816292:android:2babf05920fa8e3188a3f1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDmhHyjjMoE-lf736MprqWTD7ms_ODvumM</string>
+    <string name="google_storage_bucket" translatable="false">food-donation-connector-bb15a.firebasestorage.app</string>
+    <string name="login_subtitle">Sign in to share or receive meals</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="menu_browse_donations">Browse Available Food</string>
+    <string name="menu_browse_donations_desc">Find real-time nearby food items ready for pickup</string>
+    <string name="menu_my_donations">My Activity &amp; History</string>
+    <string name="menu_my_donations_desc">View your posts, claims, and status updates</string>
+    <string name="menu_post_donation">Post Food Donation</string>
+    <string name="menu_post_donation_desc">Share fresh surplus meals or grocery items</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Contact Phone Number</string>
+    <string name="pickup_address">Pickup Address &amp; Landmarks</string>
+    <string name="pickup_address_hint">Full street address or restaurant location</string>
+    <string name="post_donation_title">Post Food Donation</string>
+    <string name="project_id" translatable="false">food-donation-connector-bb15a</string>
+    <string name="quantity">Quantity &amp; Servings</string>
+    <string name="quantity_hint">e.g., 20 Meal boxes, 10 kg, 5 Liters</string>
+    <string name="recent_available_title">Recent Available Donations</string>
+    <string name="role_badge_prefix">Role: %1$s</string>
+    <string name="role_donor">Food Donor</string>
+    <string name="role_donor_desc">Individual, Restaurant, Caterer, Supermarket</string>
+    <string name="role_ngo">NGO / Receiver</string>
+    <string name="role_ngo_desc">Charity, Shelter, Community Kitchen</string>
+    <string name="role_select_title">I am registering as:</string>
+    <string name="search_hint">Search food items or location…</string>
+    <string name="signup_subtitle">Create an account to stop food waste</string>
+    <string name="signup_title">Join the Movement</string>
+    <string name="status_available">Available</string>
+    <string name="status_claimed">Claimed</string>
+    <string name="status_completed">Completed</string>
+    <string name="tagline">Bridging surplus food to communities in need</string>
+    <string name="upload_photo">Upload Food Photo</string>
+    <string name="view_all">View All</string>
+    <string name="welcome">Hello, %1$s!</string>
+    <style name="Theme.FoodDonationConnector" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+
+        
+        <item name="android:windowBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+
+        
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="android:textColorHint">@color/text_secondary</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:editTextColor">@color/text_primary</item>
+
+        
+        <item name="textInputStyle">@style/Widget.App.TextInputLayout</item>
+        <item name="editTextStyle">@style/Widget.App.TextInputEditText</item>
+        <item name="materialButtonStyle">@style/Widget.App.Button</item>
+    </style>
+    <style name="Widget.App.Button" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">12dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="Widget.App.Button.Outlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="cornerRadius">12dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="strokeColor">@color/primary</item>
+        <item name="strokeWidth">1.5dp</item>
+        <item name="android:textColor">@color/primary</item>
+    </style>
+    <style name="Widget.App.TextInputEditText" parent="Widget.MaterialComponents.TextInputEditText.OutlinedBox">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textColorHint">@color/text_muted</item>
+        <item name="android:textColorHighlight">@color/primary_light</item>
+    </style>
+    <style name="Widget.App.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusBottomEnd">12dp</item>
+        <item name="boxCornerRadiusBottomStart">12dp</item>
+        <item name="boxCornerRadiusTopEnd">12dp</item>
+        <item name="boxCornerRadiusTopStart">12dp</item>
+        <item name="boxStrokeColor">@color/primary</item>
+        <item name="boxStrokeWidth">1.5dp</item>
+        <item name="hintTextColor">@color/primary</item>
+        <item name="android:textColorHint">@color/text_secondary</item>
+        <item name="placeholderTextColor">@color/text_muted</item>
+    </style>
+</resources>

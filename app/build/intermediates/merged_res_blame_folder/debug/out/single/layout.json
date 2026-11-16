@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.fooddonationconnector.app-mergeDebugResources-38:/layout/activity_signup.xml",
+        "source": "com.example.fooddonationconnector.app-main-41:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.fooddonationconnector.app-mergeDebugResources-38:/layout/activity_my_donations.xml",
+        "source": "com.example.fooddonationconnector.app-main-41:/layout/activity_my_donations.xml"
+    },
+    {
+        "merged": "com.example.fooddonationconnector.app-mergeDebugResources-38:/layout/activity_donation_list.xml",
+        "source": "com.example.fooddonationconnector.app-main-41:/layout/activity_donation_list.xml"
+    },
+    {
+        "merged": "com.example.fooddonationconnector.app-mergeDebugResources-38:/layout/activity_login.xml",
+        "source": "com.example.fooddonationconnector.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.fooddonationconnector.app-mergeDebugResources-38:/layout/item_donation.xml",
+        "source": "com.example.fooddonationconnector.app-main-41:/layout/item_donation.xml"
+    },
+    {
+        "merged": "com.example.fooddonationconnector.app-mergeDebugResources-38:/layout/activity_donation_detail.xml",
+        "source": "com.example.fooddonationconnector.app-main-41:/layout/activity_donation_detail.xml"
+    },
+    {
+        "merged": "com.example.fooddonationconnector.app-mergeDebugResources-38:/layout/activity_home.xml",
+        "source": "com.example.fooddonationconnector.app-main-41:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.fooddonationconnector.app-mergeDebugResources-38:/layout/activity_post_donation.xml",
+        "source": "com.example.fooddonationconnector.app-main-41:/layout/activity_post_donation.xml"
+    }
+]

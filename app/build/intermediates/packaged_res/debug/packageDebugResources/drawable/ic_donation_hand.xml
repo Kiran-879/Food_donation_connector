@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Food Cloche / Sharing Meal Icon -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M12,2a2,2 0 0,0 -2,2c0,0.74 0.4,1.38 1,1.72V6.05C6.91,6.5 4,9.9 4,14h16c0,-4.1 -2.91,-7.5 -7,-7.95V5.72c0.6,-0.34 1,-0.98 1,-1.72a2,2 0 0,0 -2,-2zM2,16h20v2H2zM6,19h12v2H6z" />
+</vector>
