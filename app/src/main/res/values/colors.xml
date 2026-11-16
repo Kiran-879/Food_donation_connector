@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors -->
+    <color name="primary">#2E7D32</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="primary_light">#E8F5E9</color>
+    <color name="primary_variant">#388E3C</color>
+
+    <!-- Secondary & Accent Colors -->
+    <color name="secondary">#00897B</color>
+    <color name="secondary_dark">#004D40</color>
+    <color name="secondary_light">#E0F2F1</color>
+    <color name="accent_amber">#F57C00</color>
+    <color name="accent_amber_light">#FFF3E0</color>
+
+    <!-- Neutral & Backgrounds -->
+    <color name="background">#F8F9FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#E5E7EB</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_muted">#9CA3AF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Status Badges -->
+    <color name="status_available_text">#1B5E20</color>
+    <color name="status_available_bg">#C8E6C9</color>
+
+    <color name="status_claimed_text">#0D47A1</color>
+    <color name="status_claimed_bg">#BBDEFB</color>
+
+    <color name="status_completed_text">#37474F</color>
+    <color name="status_completed_bg">#CFD8DC</color>
+
+    <color name="error">#D32F2F</color>
+    <color name="error_light">#FFEBEE</color>
+</resources>
+

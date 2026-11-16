@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475037816292",
+    "project_id": "food-donation-connector-bb15a",
+    "storage_bucket": "food-donation-connector-bb15a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475037816292:android:2babf05920fa8e3188a3f1",
+        "android_client_info": {
+          "package_name": "com.example.fooddonationconnector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmhHyjjMoE-lf736MprqWTD7ms_ODvumM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
